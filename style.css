@@ -1,0 +1,29 @@
+
+.haha{
+    background: #352f5b !important;
+  }
+
+.filter{
+    display: none !important;
+}
+
+.container{
+    max-width: 400px !important;
+  }
+  input[type=text],
+  input[type=text]:focus{
+    color: #fff !important;
+    border: none !important;
+    background: rgba(0,0,0,0.2) !important;;
+    max-width: 400px !important;
+  }
+
+.todos li{
+    background: #423a6f !important;
+  }
+
+.delete{
+    cursor: pointer !important;
+  }
+
+  
